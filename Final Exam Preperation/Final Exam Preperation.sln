@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ad Astra", "Ad Astra\Ad Ast
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pianist", "Pianist\Pianist.csproj", "{B4C31E4E-A2A9-4BBD-84C9-E2ECCCD6FDC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World Tour", "World Tour\World Tour.csproj", "{429BC7AC-7903-4ED9-8BBF-4D0ECF916C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "World Tour", "World Tour\World Tour.csproj", "{429BC7AC-7903-4ED9-8BBF-4D0ECF916C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Destination Mapper", "Destination Mapper\Destination Mapper.csproj", "{D591BB2E-7D64-4688-98EE-0442B565D7AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{429BC7AC-7903-4ED9-8BBF-4D0ECF916C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{429BC7AC-7903-4ED9-8BBF-4D0ECF916C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{429BC7AC-7903-4ED9-8BBF-4D0ECF916C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D591BB2E-7D64-4688-98EE-0442B565D7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D591BB2E-7D64-4688-98EE-0442B565D7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D591BB2E-7D64-4688-98EE-0442B565D7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D591BB2E-7D64-4688-98EE-0442B565D7AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
