@@ -18,6 +18,7 @@ namespace Mirror_words
             if (!regex.IsMatch(input))
             {
                 Console.WriteLine("No word pairs found!");
+                Console.WriteLine("No mirror words!");
                 return;
             }
 
