@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Secret Chat", "The Secr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mirror words", "Mirror words\Mirror words.csproj", "{E1F9429B-E56E-4DF9-83C1-40C1D858B451}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Need For Speed III", "Need For Speed III\Need For Speed III.csproj", "{D6DE4EB9-6B6B-42DD-8994-6EDED786F67E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Need For Speed III", "Need For Speed III\Need For Speed III.csproj", "{D6DE4EB9-6B6B-42DD-8994-6EDED786F67E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fancy Bracodes", "Fancy Bracodes\Fancy Bracodes.csproj", "{67A670D4-C6BF-4654-BB68-828A00AE7B59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1rates", "P1rates\P1rates.csproj", "{B9B1DB94-63B1-45D3-93A7-788FE03EFBCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{D6DE4EB9-6B6B-42DD-8994-6EDED786F67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6DE4EB9-6B6B-42DD-8994-6EDED786F67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6DE4EB9-6B6B-42DD-8994-6EDED786F67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A670D4-C6BF-4654-BB68-828A00AE7B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A670D4-C6BF-4654-BB68-828A00AE7B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A670D4-C6BF-4654-BB68-828A00AE7B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A670D4-C6BF-4654-BB68-828A00AE7B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B1DB94-63B1-45D3-93A7-788FE03EFBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B1DB94-63B1-45D3-93A7-788FE03EFBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B1DB94-63B1-45D3-93A7-788FE03EFBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B1DB94-63B1-45D3-93A7-788FE03EFBCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

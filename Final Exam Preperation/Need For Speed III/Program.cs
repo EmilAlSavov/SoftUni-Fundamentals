@@ -43,13 +43,14 @@ namespace Need_For_Speed_III
                         currCar.Fuel -= fuel;
                         currCar.Mileage += distance;
 
+                        Console.WriteLine($"{car} driven for {distance} kilometers. {fuel} liters of fuel consumed.");
+
                         if (currCar.Mileage >= 100000)
                         {
                             Console.WriteLine($"Time to sell the {car}!");
                             cars.Remove(currCar);
                             continue;
                         }
-                        Console.WriteLine($"{car} driven for {distance} kilometers. {fuel} liters of fuel consumed.");
                     }
                 }
                 else if (commandType == "Refuel")
@@ -68,6 +69,7 @@ namespace Need_For_Speed_III
                         {
                             currCar.Fuel = 75;
                             Console.WriteLine($"{car} refueled with {75 - lastFuel} liters");
+                            continue;
                         }
                         Console.WriteLine($"{car} refueled with {fuel} liters");
                     }
